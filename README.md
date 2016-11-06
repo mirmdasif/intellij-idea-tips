@@ -1,6 +1,8 @@
 # intellij-idea-tips
 Tips and Tricks For The Best Java IDE
 
-#List All The Files That Have Local Changes
+## Tip 1 : List All The Files That Have Local Changes
 
+```bash
 ctrl + 9
+```
