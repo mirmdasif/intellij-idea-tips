@@ -6,3 +6,9 @@ Tips and Tricks For The Best Java IDE
 ```bash
 ctrl + 9
 ```
+
+## Tip 2 : Convert a String to Upper Case
+
+```bash
+ctrl + shift + u
+```
