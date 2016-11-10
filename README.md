@@ -18,5 +18,5 @@ ctrl + shift + u
 ```bash
 alt + right
 alt + left
-a;t + tab
+alt + tab
 ```
