@@ -12,3 +12,11 @@ ctrl + 9
 ```bash
 ctrl + shift + u
 ```
+
+## Tip 2 : To Navigate from The Current Tab to The Next or Previous Tab
+
+```bash
+alt + right
+alt + left
+a;t + tab
+```
